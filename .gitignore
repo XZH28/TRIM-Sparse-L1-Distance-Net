@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+*.log
+log*.txt
+
+# Datasets and outputs
+.data/
+.outputs/
+
+# # Pretrained/model artifacts
+# addernet/pretrainModels/
+# *.pth
+# *.pt
+# *.ckpt
+
